@@ -1,0 +1,28 @@
+巡检邮件发送对象：
+to:
+liuhubin<liuhubin@huawei.com>,liuzeng7<liuzeng7@huawei-partners.com>,(C)<mengfanqi2@huawei-partners.com>
+cc:
+xiliming<xiliming@huawei.com>,duanbo666<duanbo666@huawei.com>,chaozhangak@isoftstone.com<chaozhangak@isoftstone.com>,xhliaf<xhliaf@isoftstone.com>,zhangjitao2@mail01.huawei.com<zhangjitao2@mail01.huawei.com>,zhaozhixin@mail01.huawei.com<zhaozhixin@mail01.huawei.com>,huangyang78<huangyang78@h-partners.com>,xingnan2<xingnan2@mail01.huawei.com>,lijieran@huawei-partners.com
+
+
+
+
+
+
+
+
+
+
+
+
+日报邮件发送
+
+主送：
+
+liuzeng7@huawei-partners.com<liuzeng7@huawei-partners.com>,  lixiaohui14@huawei-partners.com<lixiaohui14@huawei-partners.com>
+
+抄送：
+xiliming@huawei.com<xiliming@huawei.com>,  stef.dong@huawei.com<stef.dong@huawei.com>,  liuhubin@huawei.com<liuhubin@huawei.com>,  mengfanqi2@huawei-partners.com<mengfanqi2@huawei-partners.com>
+密送：
+
+huyumeng3@huawei-partners.com<huyumeng3@huawei-partners.com>,  wuyonghao2@mail01.huawei.com<wuyonghao2@mail01.huawei.com>,  zhoujin2@mail01.huawei.com<zhoujin2@mail01.huawei.com>,  wangqiang7@mail01.huawei.com<wangqiang7@mail01.huawei.com>,  minbao@isoftstone.com<minbao@isoftstone.com>,  xingnan2@mail01.huawei.com<xingnan2@mail01.huawei.com>, taohuangq@isoftstone.com
